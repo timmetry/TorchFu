@@ -1,0 +1,8 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\TorchFu\bin\Release\TorchFu.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\TorchFu\bin\Release\TorchFu.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\TorchFu\obj\x86\Release\TorchFu.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\TorchFu\obj\x86\Release\TorchFu.pdb
+G:\Users\Tim\documents\visual studio 2010\Projects\TorchFu\TorchFu\obj\x86\Release\TorchFu.exe
+G:\Users\Tim\documents\visual studio 2010\Projects\TorchFu\TorchFu\obj\x86\Release\TorchFu.pdb
+G:\Users\Tim\documents\visual studio 2010\Projects\TorchFu\TorchFu\bin\Release\TorchFu.exe
+G:\Users\Tim\documents\visual studio 2010\Projects\TorchFu\TorchFu\bin\Release\TorchFu.pdb
